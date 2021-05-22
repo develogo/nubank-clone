@@ -35,7 +35,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/github_username/repo_name">
-    <img src="https://develogo.com/wp-content/uploads/2020/11/nubank-logo.png" alt="Logo" width="140" height="80">
+    <img src="https://develogo.com/nubank-clone/nubank-logo.png" alt="Logo" width="140" height="80">
   </a>
 
   <h3 align="center">Nubank Clone</h3>
@@ -74,11 +74,11 @@
 ## Sobre o Projeto
 
 <p float="left">
-  <img src="https://develogo.com/wp-content/uploads/2020/11/demo.gif" width="200"/>
-  <img src="https://develogo.com/wp-content/uploads/2020/11/0.png" width="200" />
-  <img src="https://develogo.com/wp-content/uploads/2020/11/1.png" width="200" /> 
-  <img src="https://develogo.com/wp-content/uploads/2020/11/2.png" width="200" />
-  <img src="https://develogo.com/wp-content/uploads/2020/11/3.png" width="200" />
+  <img src="https://develogo.com/nubank-clone/demo.gif" width="200"/>
+  <img src="https://develogo.com/nubank-clone/0.png" width="200" />
+  <img src="https://develogo.com/nubank-clone/1.png" width="200" /> 
+  <img src="https://develogo.com/nubank-clone/2.png" width="200" />
+  <img src="https://develogo.com/nubank-clone/3.png" width="200" />
 </p>
 
 ***[ATENÇÃO] Este projeto foi criado com intuito de aprendizado da tecnologia Flutter e não deve ser usado para quaisquer outros fins.***<br />
