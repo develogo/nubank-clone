@@ -33,7 +33,6 @@ dependencies:
   # Use with the CupertinoIcons class for iOS style icons.
 
 dev_dependencies:
-  mockito: ^4.1.2
   modular_codegen: ^2.0.0+1
   mobx_codegen: ^1.1.1+1
   build_runner: ^1.10.1
@@ -45,7 +44,6 @@ flutter_icons:
   ios: true
   image_path: "assets/icon/nubank.png"
 
-
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
 
@@ -55,7 +53,6 @@ flutter:
     - assets/images/
     - languages/pt_BR.json
     - languages/pt_PT.json
-
 
   # The following line ensures that the Material Icons font is
   # included with your application, so that you can use the icons in
@@ -94,15 +91,14 @@ flutter:
   # see https://flutter.dev/custom-fonts/#from-
 
   fonts:
-    - family:  NuIcons
+    - family: NuIcons
       fonts:
         - asset: assets/fonts/NuIcons.ttf
-vars: 
-    clean: flutter clean
-    get: flutter pub get
-    runner: flutter pub run build_runner
-scripts: 
-    mobx_build: $runner build
-    mobx_watch: $clean & $get & $runner watch --delete-conflicting-outputs
-    mobx_build_clean: $clean & $get & $runner build --delete-conflicting-outputs
-
+vars:
+  clean: flutter clean
+  get: flutter pub get
+  runner: flutter pub run build_runner
+scripts:
+  mobx_build: $runner build
+  mobx_watch: $clean & $get & $runner watch --delete-conflicting-outputs
+  mobx_build_clean: $clean & $get & $runner build --delete-conflicting-outputs
